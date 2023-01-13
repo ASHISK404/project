@@ -124,13 +124,13 @@ ul li:hover .one{
     left: 250px;
 }
 #check:checked ~ .d #mao1{
-    left: 940px;
-}
-#check:checked ~ .d #mao2{
     left: 840px;
 }
+#check:checked ~ .d #mao2{
+    left: 750px;
+}
 #check:checked ~ .d #mao3{
-    left: 960px;
+    left: 860px;
 }
 .main div{
     scroll-snap-align: start;
